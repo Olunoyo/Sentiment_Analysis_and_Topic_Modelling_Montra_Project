@@ -1,0 +1,13 @@
+seaborn
+nltk
+spacy
+torch
+streamlit
+accelerate>=1.1.0
+mlflow
+dagshub
+python-multipart
+transformers
+dotenv
+scikit-learn
+-e .
